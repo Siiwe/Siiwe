@@ -109,17 +109,6 @@ Currently completing a **Postgraduate Diploma in Data Science** (Stadio, 2026), 
 ### 📌 [People Analytics Dashboard](#) *(Coming Soon)*
 > Analyzing HR & workforce data to uncover attrition trends, headcount forecasts, and performance patterns. Built with Python, SQL & Power BI.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siiwe&show_icons=true&theme=default&hide_border=true&title_color=007A4D&icon_color=007A4D)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siiwe&layout=compact&hide_border=true&title_color=007A4D)
-
-</div>
 
 ---
 
