@@ -97,8 +97,8 @@ Currently completing a **Postgraduate Diploma in Data Science** (Stadio, 2026), 
 
 ## 🚀 Featured Projects
 
-### 📌 [Fintech Customer Churn Predictor](#) *(In Progress)*
-> A machine learning model predicting customer churn in transactional banking using behavioral and demographic data. Built with Python & Scikit-learn.
+### 📌 [Fintech Customer Churn Predictor](https://github.com/Siiwe/fintech-customer-churn-predictor) *(Active Code)*
+> An end-to-end machine learning pipeline predicting customer churn in transactional banking. Demonstrates hyperparameter tuning, cross-validation, and explainable AI (SHAP). Built with Python & Scikit-learn.
 
 ### 📌 [Automated MIS Reporting Pipeline](#) *(In Progress)*
 > An end-to-end ETL pipeline that automates management reporting from raw SQL data to formatted dashboards. Built with Python, T-SQL & Tableau.
