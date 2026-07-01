@@ -5,7 +5,7 @@
 
 *Turning complex transactional and product data into actionable business strategies*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanelisiwe-samantha-shezi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sanelisiwe-samantha-shezi-256584145)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Saneigh.ss@gmail.com)
 [![Location](https://img.shields.io/badge/Midrand%2C_Johannesburg-ZA-007A4D?style=for-the-badge)](https://en.wikipedia.org/wiki/Midrand)
 
